@@ -1,0 +1,45 @@
+
+# Site settings
+
+title: Serenity Palms Massage
+description:
+baseurl:
+email: bookings@serenitypalmsmassage.com
+phone: (03) 9729 9255
+phoneref: 0397299255
+address:
+    - Suite 9/322 Mountain Hwy
+    - Wantrina VIC 2601
+    - Australia
+googleanalytics: UA-69906708-1
+
+# Build settings
+
+sass:
+    style: compressed
+
+# Define Menu Items for Main and Footer menu
+
+menuitems:
+    - url: /
+      title: Home
+    - url: /about
+      title: About
+    - url: /ourladies
+      title: Our Ladies
+    - url: /prices
+      title: Prices
+    - url: /todays-special
+      title: Today's Special
+    - url: /staff-wanted
+      title: Staff Wanted
+    - url: /locations
+      title: Locations
+    - url: /contact
+      title: Contact Us
+
+# Javascript files
+
+javascript:
+    - /js/jquery.min.js
+    - /js/bootstrap.min.js
