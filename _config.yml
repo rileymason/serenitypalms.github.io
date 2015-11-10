@@ -25,16 +25,12 @@ menuitems:
       title: Home
     - url: /about
       title: About
-    - url: /ourladies
-      title: Our Ladies
     - url: /prices
       title: Prices
     - url: /todays-special
       title: Today's Special
     - url: /staff-wanted
       title: Staff Wanted
-    - url: /locations
-      title: Locations
     - url: /contact
       title: Contact Us
 

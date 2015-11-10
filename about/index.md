@@ -12,13 +12,9 @@ With a variety of ladies to choose from, you won't be disappointed. And why not 
 
 You'll feel like a king!
 
-
-
 Here at Serenity Palms, we aim to tease!
 So please respect your massage therapist and refrain from asking for anything with a sexual nature.
 
 Each girl has put together a range of additional non-sexual pleasures for your enjoyment, so feel free to discuss these options when making your booking.
-
-
 
 Serenity Palms will be expanding Australia wide
