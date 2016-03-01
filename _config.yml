@@ -23,15 +23,15 @@ sass:
 menuitems:
     - url: /
       title: Home
-    - url: /about
+    - url: /about/
       title: About
-    - url: /prices
+    - url: /prices/
       title: Prices
-    - url: /todays-special
+    - url: /todays-special/
       title: Today's Special
-    - url: /staff-wanted
+    - url: /staff-wanted/
       title: Staff Wanted
-    - url: /contact
+    - url: /contact/
       title: Contact Us
 
 # Javascript files
