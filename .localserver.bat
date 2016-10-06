@@ -1,3 +1,3 @@
 
-cd C:\Users\Geoff\odrive\GeoffTech\Webs\serenitypalmsmassage.com\Jekyll
+cd /D %userprofile%\Projects\jekyll\serenitypalmsmassage.com
 jekyll server --incremental
