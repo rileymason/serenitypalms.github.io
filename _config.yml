@@ -27,8 +27,6 @@ menuitems:
       title: About
     - url: /prices/
       title: Prices
-    - url: /todays-special/
-      title: Today's Special
     - url: /staff-wanted/
       title: Staff Wanted
     - url: /contact/
