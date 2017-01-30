@@ -108,7 +108,7 @@ layout: none
         </div>
         <div class="col-xs-6 col-md-4 text-center">
             <p>
-              45 min<br />Nude Massage
+                45 min<br />Nude Massage
             </p>
             <h1>
                 $100
@@ -132,6 +132,13 @@ layout: none
         </div>
     </div>
 
+
+
+    <div class="row">
+        <div class="well col-xs-12 col-sm-8 col-sm-push-2 text-center">
+            <h4>Coming soon:</h4> Men's Express Facial Treatment
+        </div>
+    </div>
 </div>
 
 <div class="container">
@@ -151,12 +158,12 @@ layout: none
     </div>
 
     <div class="row">
-      {% for item in site.static_files %}
+        {% for item in site.static_files %}
         {% if item.path contains "ourladies" %}
-          <div class="col-xs-12 col-sm-12" style="margin-bottom: 20px;">
-              <img src="{{ item.path }}" class="img-responsive" style="width:100%" />
-          </div>
+        <div class="col-xs-12 col-sm-12" style="margin-bottom: 20px;">
+            <img src="{{ item.path }}" class="img-responsive" style="width:100%" />
+        </div>
         {% endif %}
-      {% endfor %}
+        {% endfor %}
     </div>
 </div>
