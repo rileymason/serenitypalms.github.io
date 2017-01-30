@@ -135,5 +135,13 @@ layout: none
         </div>
     </div>
 
-    
+    <div class="row">
+      {% for item in site.static_files %}
+        {% if item.path contains "ourladies" %}
+          <div class="col-xs-12 col-sm-12" style="margin-bottom: 20px;">
+              <img src="{{ item.path }}" class="img-responsive" style="width:100%" />
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
 </div>
