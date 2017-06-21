@@ -3,18 +3,18 @@ title: About Serenity Palms
 layout: default
 ---
 
-Serenity Palms is a new and exciting massage parlour for men and women located in the outer eastern suburbs of Melbourne.
+Serenity Palms Massage cannot be compared. Combining our unique sensual massage style with an element of strip tease and seductiveness that will have you captivated. 
 
-Experience the thrill of a nude sensual massage performed by our beautiful Australian massage therapists, and feel your senses rise as they massage you into a trance.
+We care about you and your day, not whats in your wallet. Its about connection, relaxing.. getting away for half an hour or more, forgetting the day and enjoying the moment.
 
-With a variety of ladies to choose from, you won't be disappointed. And why not choose our Four Hands option?
-2 beautiful women running their hands all over your skin in sync with each other.
+Our therapists are qualified and regularly trained to keep up to date. 
+Ages vary from 18 to 37, all body types, girl next door or glamour.. take your pick! In saying that... you are able to book online or via phone to request a booking with a particular therapist, however walk in's will be allocated to who is available.
 
-You'll feel like a king!
+Upgrades are available and completely optional, please discuss with your therapist if you are interested in upgrading and she can go through her specialties with you.
 
-Here at Serenity Palms, we aim to tease!
-So please respect your massage therapist and refrain from asking for anything with a sexual nature.
+*Please note that we are NOT a venue who sells sexual services or any sex act what so ever. We are NOT Sex Workers,  we do NOT operate as a licenced Brothel. Please do not ask to be introduced to the girls upon arrival nor ask for any sexual service as you will be asked to leave with no refund. NON SEXUAL... But Totally Sexy.
 
-Each girl has put together a range of additional non-sexual pleasures for your enjoyment, so feel free to discuss these options when making your booking.
+*No Sex Acts or NO Sexual Services means; NO Hand Relief, NO Sex, NO Exchange of Fluids, NO touching of the Genitals AT ALL. Not hers and NOT your own. Respect the rules, venue and most importantly the ladies.. that covered you will have a pretty awesome time! 
 
-Serenity Palms will be expanding Australia wide
+
+Call us for more info and hopefully we get to see you soon... even if it's just once xx 
