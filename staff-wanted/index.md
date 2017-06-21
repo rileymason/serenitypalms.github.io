@@ -3,19 +3,23 @@ title: Staff Wanted
 layout: default
 ---
 
-## WANTED Massage Staff Immediate Start!
+## WANTED Tease Therapists  ##
 
-Serenity Palms We are currently seeking motivated Massage Staff to join our rapidly expanding business, Applicants must be honest and able to work unsupervised.
+Serenity Palms We are currently seeking Motivated and Vibrant Massage Therapists to join our rapidly expanding business, Applicants must be honest, confident and reliable, we also pride ourselves on presentation and how we care for our clients. So if you genuinely care about another person's well being and making their day as well as making some money.. Call us!   
 
-* Shifts available full time/part time/casual.
-* Weekdays and Weekend work available.
+Current Availabilty: Casual weekdays and some weekends, must be available for afternoon/nights (shift ending at 10:30PM)
 
-Our Shop is located in Wantirna, in the Wantirna shopping mall. You can catch the bus from Ringwood station that will drop you off next to our massage shop.
 
-Backpackers and Students and all nationalities are most welcome.
+Our Shop is located upstairs above Wendy's Beauty Centre in the Wantirna Shopping Mall. Corner Mountain Hwy and Boronia Road 
 
-Experience preferred but not essential - onsite training will be provided. Also you are paid daily, potential to earn great money.
 
-Call 03 9729 9255 Managment.
+Experience preferred but not essential - onsite training will be provided. 
 
-Visit our Shop at 9/322 Mountain Hwy Wantirna
+
+
+Contact Riley on:
+
+97299255
+serenitypalmsmassageau@gmail.com - please send as much info as possible and a current photo clearly showing your face and body. 
+Must be 18 years old or over. 
+
