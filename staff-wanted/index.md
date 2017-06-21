@@ -19,8 +19,8 @@ Experience preferred but not essential - onsite training will be provided.
 
 Contact Riley on:
 
-97299255<br
-serenitypalmsmassageau@gmail.com <br
+97299255 .
+serenitypalmsmassageau@gmail.com .
 Please send as much info as possible and a current photo clearly showing your face and body. 
 Must be 18 years old or over. 
 
